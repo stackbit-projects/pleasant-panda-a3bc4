@@ -2,7 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: hero
+  - section_id: Heading
     type: section_hero
     title: Void Log
     content: >-
